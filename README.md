@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Joey Steigelman
 
 <!--
 **greencreate/greencreate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning Phaser.js
+- 👯 I’m looking to collaborate on anything cool!
+- 📫 How to reach me: joey.steigelman@gmail.com
+- 😄 Pronouns: she/her
