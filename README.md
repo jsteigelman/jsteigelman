@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning: Phaser.js
-- 👯 I’m looking to collaborate on: anything cool!
+- 👯 I’m looking to collaborate on: anything cool 🙂
 - 📫 How to reach me: joey.steigelman@gmail.com
