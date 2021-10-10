@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 
 # Hi, I'm Joey 👋
 ### I'm a software developer who loves building products.
-Fun fact: I love being a creator. Before before building products, [I was building sculptures](https://www.joeysteigelman.com).
+Fun fact: I love building things. Before before building products, [I was building sculptures](https://www.joeysteigelman.com).
 
 Say hi at [joey.steigelman@gmail.com](mailto:joey.steigelman@gmail.com?subject=Hello)
