@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # Hi, I'm Joey 👋
-
-### I'm a software engineer who loves building products.
+#### I'm a software engineer who loves building products.
 Say hi at joey.steigelman@gmail.com
 
 <!-- - 🌱 I’m currently learning: Node.js
