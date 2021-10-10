@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hi, I'm Joey 👋
 ### I'm a software developer who loves building products.
-[Get in touch](mailto:joey.steigelman@gmail.com?subject=Hello)
+Say hi at [joey.steigelman@gmail.com](mailto:joey.steigelman@gmail.com?subject=Hello)
 
 <!-- - 🌱 I’m currently learning: Node.js
 - 👯 I’m looking to collaborate on: anything cool 🙂
