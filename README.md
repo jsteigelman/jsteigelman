@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 
 # Hi, I'm Joey 👋
 ### I'm a software developer who loves building products.
+Fun fact: before building products, [I was building sculpture](www.joeysteigelman.com).
 Say hi at [joey.steigelman@gmail.com](mailto:joey.steigelman@gmail.com?subject=Hello)
