@@ -1,5 +1,3 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22px"> I'm Joey
-
 <!--
 **jsteigelman/jsteigelman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +14,8 @@ Here are some ideas to get you started:
 -->
 
 # Hi, I'm Joey 👋
+
+### I'm a software engineer who loves building products.
 
 - 🌱 I’m currently learning: Node.js
 - 👯 I’m looking to collaborate on: anything cool 🙂
