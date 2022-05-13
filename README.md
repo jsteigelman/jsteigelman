@@ -1,3 +1,7 @@
+<p>
+<img src="https://user-images.githubusercontent.com/65603938/168372216-6e7e26f8-e6ff-4759-bbcf-4afb1093dca6.png" alt="html" width="160"/>
+</p>
+
 # Hi, I'm Joey 👋
 
 ## About Me
