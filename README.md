@@ -21,7 +21,7 @@ I’m an artist-turned-developer, having realized that building products is more
 * [Task Manager REST API](https://github.com/jsteigelman/node-task-manager) - a REST API that allows users to perform CRUD operations with a task manager app
 
 ## Get In Touch
-Say hi at [joey.steigelman@gmail.com](mailto:joey.steigelman@gmail.com?subject=Hello) 🙂
+Say hi ✉️: [joey.steigelman@gmail.com](mailto:joey.steigelman@gmail.com?subject=Hello)
 
 <!--
 **jsteigelman/jsteigelman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
