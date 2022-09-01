@@ -2,10 +2,8 @@
 <img src="https://user-images.githubusercontent.com/65603938/168372216-6e7e26f8-e6ff-4759-bbcf-4afb1093dca6.png" alt="html" width="160"/>
 </p>
  -->
-# Hi, I'm Joey 👋
-
 ## About Me
-I’m an artist-turned-developer, having realized that building products is more enjoyable than building sculpture! I recently had the opportunity to attend the Recurse Center, where I focused on using the MERN stack (MongoDB, Express.js, React.js, Node.js) and building full-stack applications. I have a keen eye for detail, design, and user usability, and love the satisfaction that comes with driving projects from concept to delivery. When I’m not coding I can be found reading, cooking, or learning laser holography!
+Hi, I'm Joey 👋 I’m an artist-turned-developer, having realized that building products is more enjoyable than building sculpture. I recently had the opportunity to attend the Recurse Center, where I focused on using the MERN stack (MongoDB, Express.js, React.js, Node.js) and building full-stack applications. I have a keen eye for detail, design, and user usability, and love the satisfaction that comes with driving projects from concept to delivery. 
 
 <!-- ## Languages and Tools
 <p>
