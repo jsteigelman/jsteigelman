@@ -3,7 +3,7 @@
 </p>
  -->
 ## About Me
-Hi, I'm Joey 👋 I’m an artist-turned-developer, having realized that building products is more enjoyable than building sculpture. I recently had the opportunity to attend the Recurse Center, where I focused on using the MERN stack (MongoDB, Express.js, React.js, Node.js) and building full-stack applications. I have a keen eye for detail, design, and user usability, and love the satisfaction that comes with driving projects from concept to delivery. 
+Hi, I'm Joey 👋 I’m an artist-turned-developer. I recently had the opportunity to attend the Recurse Center, where I focused on using the MERN stack (MongoDB, Express.js, React.js, Node.js) and building full-stack applications. I have a keen eye for detail, design, and user usability, and love the satisfaction that comes with driving projects from concept to delivery. 
 
 <!-- ## Languages and Tools
 <p>
